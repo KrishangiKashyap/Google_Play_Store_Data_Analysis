@@ -6,7 +6,7 @@ Exploratory Data Analysis is performed on the Google Play Store Apps dataset acc
 
 2. Analysed & Visualized total number of apps in each category, categories having maximum and minimum apps in. Play Store, categories having maximum & minimum installed apps, categories having highest rated apps and finally categories having apps of maximum price.
 
-   Few example images are shown below,
+   Few example images are shown below, 
 
    ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/category%20vs%20app.png?width=50&height=50)
    
