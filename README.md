@@ -8,4 +8,4 @@ Exploratory Data Analysis is performed on the Google Play Store Apps dataset acc
 
    Few example images are shown below,
 
-   ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/category%20vs%20app.png?width=30&height=3)
+   ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/category%20vs%20app.png?width=30&height=5)
