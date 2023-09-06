@@ -13,3 +13,5 @@ Exploratory Data Analysis is performed on the Google Play Store Apps dataset acc
    ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/category%20vs%20max%20install.png?width=50&height=50)
    
    ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/category%20vs%20price.png?width=50&height=50)
+
+   ![Image of Photo](https://github.com/KrishangiKashyap/Google_Play_Store_Data_Analysis/blob/main/Category%20vs%20rating.png?width=50&height=50)
