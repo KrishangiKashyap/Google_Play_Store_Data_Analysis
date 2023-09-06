@@ -1,5 +1,10 @@
 # Google_Play_Store_Data_Analysis
 
-Analysis of the Google Play Store Apps data to divide the data category wise. Initially Data Preparation and Cleaning was done by checking the percentage of missing values in any column.
+Exploratory Data Analysis is performed on the Google Play Store Apps dataset according to the following steps-
 
-Analysed & Visualized total number of apps in each category, categories having maximum and minimum apps in. Play Store, categories having maximum & minimum installed apps, categories having highest rated apps and finally categories having apps of maximum price.
+1. Data Preparation and Cleaning is done by checking the percentage of missing values in all columns.
+
+2. Analysed & Visualized total number of apps in each category, categories having maximum and minimum apps in. Play Store, categories having maximum & minimum installed apps, categories having highest rated apps and finally categories having apps of maximum price.
+
+   Few example images are shown below,
+   ![Image of Photo](images/photo.jpg)
